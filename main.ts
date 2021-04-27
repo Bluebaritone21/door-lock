@@ -9,7 +9,7 @@ input.onButtonPressed(Button.A, function () {
     }
 })
 input.onButtonPressed(Button.AB, function () {
-    if (Inputs == "ABBAB") {
+    if (Inputs == "BAABA") {
         basic.showLeds(`
             . . # . .
             . # . # .
